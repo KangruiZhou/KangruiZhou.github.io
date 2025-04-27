@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kangrui Zhou",
+    "label": "M.E.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zhoukangruinudt@163.com",
+    "phone": "17388918429",
+    "url": "https://kangruizhou.github.io/",
+    "summary": "A M.E. student works in deep symbolic regression.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No. 53, Fengtai East Street",
+      "postalCode": "100071",
+      "city": "Beijing",
+      "countryCode": "China",
+      "region": "Beijing"
     },
     "profiles": [
       {
