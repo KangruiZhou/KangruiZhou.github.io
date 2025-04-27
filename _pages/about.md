@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
 profile:
   align: right
@@ -31,8 +31,8 @@ latest_posts:
 
 Hi! I’m Kangrui, a final year M.E. student at NUDT, advised by Prof. Wen Yao. [Get my CV here](https://kangruizhou.github.io/assets/pdf/KangruiZhou_resume.pdf). My research interests lie in the intersection of artificial intelligence and aerospace engineering.
 
-- First item Deep Symbolic Regression: I am developing novel deep reinforce learning technique that learn the attribute of symbolic expressions to automate the discovery of governing equations in complex physical systems. This research aims to establish interpretable machine learning frameworks that can extract compact physical laws from high-dimensional data.
-- Second item Neural Operator: My work in this domain focuses on domain decomposition-based neural operators that can learn the solution spaces of PDEs with significant distribution differences directly from observational data.
+- Deep Symbolic Regression: I am developing novel deep reinforce learning technique that learn the attribute of symbolic expressions to automate the discovery of governing equations in complex physical systems. This research aims to establish interpretable machine learning frameworks that can extract compact physical laws from high-dimensional data.
+- Neural Operator: My work in this domain focuses on domain decomposition-based neural operators that can learn the solution spaces of PDEs with significant distribution differences directly from observational data.
 
 I am particularly enthusiastic about exploring real-world applications of artificial intelligence and energized by its transformative impact on scientific research paradigms and human livelihood enhancement.
 
