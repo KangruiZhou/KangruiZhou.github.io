@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EAAI":
+  url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  color: "#551A8B"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
+"OL":
+  url: https://opg.optica.org/ol/home.cfm
+  color: "#FFFF00"
+  
 "Vision":
   color: "#009f36"
