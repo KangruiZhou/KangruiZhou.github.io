@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Knagrui Zhou</p>
-    <p>Beijing China</p>
+    <p>Kangrui Zhou</p><br>
+    <p>Beijing China</p><br>
     <p>Email: zhoukangruinudt@163.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
