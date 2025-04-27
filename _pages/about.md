@@ -29,7 +29,7 @@ latest_posts:
 
 **I’m on the job market this year, looking for PhD positions starting 2026 fall!**
 
-Hi! I’m Kangrui, a final year M.E. student at NUDT, advised by Prof. Wen Yao. [Get my CV here](https://kangruizhou.github.io/assets/pdf/KangruiZhou_resume.pdf). My research interests lie in the intersection of artificial intelligence and aerospace engineering.
+Hi! I’m Kangrui, a final year M.E. student at NUDT, advised by Prof. Wen Yao. My research interests lie in the intersection of artificial intelligence and aerospace engineering. [Get my CV here](https://kangruizhou.github.io/assets/pdf/KangruiZhou_resume.pdf).
 
 - Deep Symbolic Regression: I am developing novel deep reinforce learning technique that learn the attribute of symbolic expressions to automate the discovery of governing equations in complex physical systems. This research aims to establish interpretable machine learning frameworks that can extract compact physical laws from high-dimensional data.
 - Neural Operator: My work in this domain focuses on domain decomposition-based neural operators that can learn the solution spaces of PDEs with significant distribution differences directly from observational data.
