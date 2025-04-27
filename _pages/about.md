@@ -14,7 +14,7 @@ profile:
     <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**I’m on the job market this year, looking for PhD positions starting 2026 fall!**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I’m Kangrui, a final year M.E. student at NUDT, advised by Prof. Wen Yao. [Get my CV here](https://kangruizhou.github.io/assets/pdf/KangruiZhou_resume.pdf). My research interests lie in the intersection of artificial intelligence and aerospace engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- First item Deep Symbolic Regression: I am developing novel deep reinforce learning technique that learn the attribute of symbolic expressions to automate the discovery of governing equations in complex physical systems. This research aims to establish interpretable machine learning frameworks that can extract compact physical laws from high-dimensional data.
+- Second item Neural Operator: My work in this domain focuses on domain decomposition-based neural operators that can learn the solution spaces of PDEs with significant distribution differences directly from observational data.
+
+I am particularly enthusiastic about exploring real-world applications of artificial intelligence and energized by its transformative impact on scientific research paradigms and human livelihood enhancement.
+
