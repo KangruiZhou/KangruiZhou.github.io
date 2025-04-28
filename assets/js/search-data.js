@@ -35,20 +35,6 @@ ninja.data = [{
           title: 'I release a SRpaper list repository.',
           description: "",
           section: "News",},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%7A%68%6F%75%6B%61%6E%67%72%75%69%6E%75%64%74@%31%36%33.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/KangruiZhou", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
