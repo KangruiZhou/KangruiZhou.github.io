@@ -1,36 +1,17 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: a post with releasing SRpapers repository
+date: 2015-04-28 21:08:00
+description: A list of papers on the frontier research of symbolic regression.
+tags: Papers list 
+categories: SR
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+#### Introduction
+For centuries, physicists and mathematicians have pursued the elegant simplicity of symbolic equations to describe complex phenomena—from Newton's laws of motion to Maxwell's electromagnetic field equations. Yet when confronting ​​multiscale systems​ or ​​nonlinear dynamics​ (e.g. neuroscience, climate science, and financial markets), traditional derivation methods encounter an exponential explosion in the hypothesis space. The combinatorial complexity of potential governing equations renders brute-force symbolic search computationally prohibitive.
 
-#### Hipster list
+The advent of data-driven discovery offers a paradigm shift. Machine learning (ML) techniques seem to be a powerful tool to uncover underlying physical laws or governing equations from sparse/noisy observations. So, how can we use machine learning to accelerate model discovery in the science?
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+In this [repo](https://github.com/KangruiZhou/SRpapers), I list some representative work on SR and give some personal comment. Let's collectively decode the algorithms accelerating scientific discovery!
 
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Any corrections and suggestions are welcomed.
