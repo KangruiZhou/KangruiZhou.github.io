@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with releasing SRpapers repository
-date: 2015-04-28 21:08:00
+title: Releasing SRpapers repository
+date: 2025-04-28 21:08:00
 description: A list of papers on the frontier research of symbolic regression.
 tags: Papers list 
 categories: SR
