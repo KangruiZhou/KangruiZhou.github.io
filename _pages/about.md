@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Kangrui Zhou</p><br>
     <p>Beijing China</p><br>
-    <p>Email: zhoukangruinudt@163.com</p>
+    <p>Email: zhoukangrui19@nudt.edu.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
